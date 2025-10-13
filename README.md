@@ -29,11 +29,16 @@ It also detects **suspicious data**, performs **OCR (text extraction)**, and pin
 ✅ Works on **Termux**, **Linux**, and **Windows**
 
 ---
+## 🖼️ DEMO PIC
 
-## 🖼️ Demo Preview
-*(Optional — insert your Leonardo.ai logo or screenshot here)*  
-![Logo](./logo.png)  
-*Example logo created using Leonardo AI — cyberpunk forensic theme.*
+ <p align="center">
+  <img src="https://i.postimg.cc/DyjtmbsD/Screenshot-2025-10-14-00-31-53-962-com-termux.jpg" alt="pic" width="500"/>
+  &nbsp;&nbsp;&nbsp;
+ </p>
+ <p align="center">
+  <img src="https://i.postimg.cc/hvC3JHJz/Screenshot-2025-10-14-00-31-57-286-com-termux.jpg" alt="pic1" width="500"/>
+  &nbsp;&nbsp;&nbsp;
+</p>
 
 ---
 
@@ -51,10 +56,11 @@ choco install exiftool tesseract -y
 ### 2️⃣ Clone or Download the Script
 
 ```bash
+pkg install python exiftool tesseract -y
 git clone https://github.com/<your-username>/Pic-INSPECTOR.git
 cd Pic-INSPECTOR
 chmod +x *
-pip3 install -r pic-i.txt
+pip3 install -r requirements.txt
 python3 pic-i.py
 ```
 
