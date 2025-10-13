@@ -28,15 +28,6 @@ It also detects **suspicious data**, performs **OCR (text extraction)**, and pin
 ✅ **Beautiful CLI Interface** using `Rich` + `PyFiglet`  
 ✅ Works on **Termux**, **Linux**, and **Windows**
 
----
-## 🖼️ DEMO PIC
-
- <p align="center">
-  <img src="https://i.postimg.cc/DyjtmbsD/Screenshot-2025-10-14-00-31-53-962-com-termux.jpg" alt="pic" width="45%" />
-  &nbsp;&nbsp;
-  <img src="https://i.postimg.cc/hvC3JHJz/Screenshot-2025-10-14-00-31-57-286-com-termux.jpg" alt="pic1" width="45%" />
-</p>
-
 
 ---
 
@@ -157,6 +148,13 @@ OCR Text Detected Inside Image:
 "TOP SECRET FILE — DO NOT SHARE"
 ----------------------------------------
 ```
+---
+## 🖼️ DEMO PIC
+<p align="center">
+  <img src="https://i.postimg.cc/DyjtmbsD/Screenshot-2025-10-14-00-31-53-962-com-termux.jpg" alt="pic" width="45%" />
+  &nbsp;&nbsp;
+  <img src="https://i.postimg.cc/hvC3JHJz/Screenshot-2025-10-14-00-31-57-286-com-termux.jpg" alt="pic1" width="45%" />
+</p>
 
 ---
 
