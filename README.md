@@ -46,7 +46,7 @@ choco install exiftool tesseract -y
 
 ```bash
 pkg install python exiftool tesseract -y
-git clone https://github.com/<your-username>/Pic-INSPECTOR.git
+git clone https://github.com/ADIRTTA/Pic-INSPECTOR.git
 cd Pic-INSPECTOR
 chmod +x *
 pip3 install -r requirements.txt
