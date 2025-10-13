@@ -4,7 +4,7 @@
 
 <h1 align="center">PIC INSPECTOR</h1>
 <p align="center">
-  Advanced Image Metadata & OCR Analyzer (Forensics / Security Tool)**   
+  Advanced Image Metadata & OCR Analyzer (Forensics / Security Tool) 
   <br><br>
   Built with ❤️ by <b>BLACK ZER0 And HUNTER JACK</b>
 </p>
